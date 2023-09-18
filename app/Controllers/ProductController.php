@@ -12,7 +12,7 @@ class ProductController extends BaseController
     }
     public function Cjdudz()
     {
-        return view('products');
+      return view('products');
     }
      public function index()
     {
